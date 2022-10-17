@@ -1,0 +1,3 @@
+balikpapan,300
+samarinda,200
+tenggarong,100
